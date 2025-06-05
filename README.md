@@ -122,4 +122,4 @@ Model Context Token is a community-driven concept at the intersection of AI, Web
 
 
 
-Last updated: June 5th, 2025
+Last updated: June 5th, 2025.
