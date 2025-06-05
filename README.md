@@ -119,3 +119,7 @@ The **Model Context Protocol** defines how agents interact with structured digit
 ## Contribute and Discuss
 
 Model Context Token is a community-driven concept at the intersection of AI, Web3, and programmable interfaces. Join the discussion, contribute ideas, or help prototype tools and standards via our GitHub repository.
+
+
+
+Last updated: June 5th, 2025
