@@ -54,13 +54,17 @@ Below are exploratory directions where MCTs could play a significant role. These
 
 Today’s online ads rely on centralized platforms (e.g., Google, Meta) that own customer data and deploy proprietary ML models.
 
-With MCT, each user can publish their preferences and behavior to their own MCP server. Advertisers can query these MCTs directly (with payment), removing the need for intermediaries.
+With MCT, each user can publish their preferences and behavior to their own MCP server. Advertisers can query these MCTs directly (with payment), removing the need for intermediaries.\
+\
+This will be extremelly economic for small business owners.
 
-### Influencer Economy
+### Content Distribution
 
 > Recommendation algorithms will no longer be required.
 
-Content creators can publish MCTs with metadata and interaction interfaces. Interested parties—via their own agents—can discover, negotiate, and transact directly based on semantic relevance, without platforms. The middle-man recommendation engine will disappear as LLM can understand the interests enough.
+Content creators can publish MCTs with metadata and interaction interfaces. Interested parties—via their own agents—can discover, negotiate, and transact directly based on semantic relevance, without platforms. The middle-man recommendation engine will disappear as LLM can understand the interests enough.\
+\
+No matter what kind of content creators you are: video, journalists, authors... You can get rid of the middle player and talk directy and of course, collect revenue directly from your target audiences.
 
 ### International Trade
 
