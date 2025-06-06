@@ -104,7 +104,7 @@ Such accessibility will accelerate MCT adoption significantly.
 
 ### NFT
 
-A **Non-Fungible Token (NFT)** is a digital asset used to certify ownership and authenticity.
+A [**Non-Fungible Token (NFT)**](https://en.wikipedia.org/wiki/Non-fungible_token) is a digital asset used to certify ownership and authenticity.
 
 ### MCP (Model Context Protocol)
 
@@ -112,7 +112,7 @@ The **Model Context Protocol** defines how agents interact with structured digit
 
 ### AI Agents
 
-**AI Agents** are software systems capable of reasoning, planning, and acting autonomously on behalf of users. They are at the core of the agentic internet. Learn more at [Google Cloud](https://cloud.google.com/discover/what-are-ai-agents).
+**AI Agents** are software systems capable of reasoning, planning, and acting autonomously on behalf of users. They are at the core of the agentic internet. Learn more [here](https://cloud.google.com/discover/what-are-ai-agents).
 
 ***
 
