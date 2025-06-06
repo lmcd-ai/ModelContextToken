@@ -104,7 +104,7 @@ Such accessibility will accelerate MCT adoption significantly.
 
 ### NFT
 
-A **Non-Fungible Token (NFT)** is a digital asset used to certify ownership and authenticity. Learn more on \[Wikipedia]\(https://en.wikipedia.org/wiki/Non-fungible\_token#:\~:text=A%20non%2Dfungible%20token%20(NFT,to%20certify%20ownership%20and%20authenticity).
+A **Non-Fungible Token (NFT)** is a digital asset used to certify ownership and authenticity.
 
 ### MCP (Model Context Protocol)
 
