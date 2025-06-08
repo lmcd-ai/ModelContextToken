@@ -48,6 +48,8 @@ Each person or entity may hold one or more MCTs, which serve as their digital in
 
 ## Potential Use Cases for MCT
 
+> No one goes to StackOverflow today. That will apply to all websites and apps in 5 years.
+
 Below are exploratory directions where MCTs could play a significant role. These are not fully developed product ideas but rough conceptual paths:
 
 ### Online Advertising
