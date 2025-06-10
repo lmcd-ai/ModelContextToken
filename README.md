@@ -40,9 +40,13 @@ MCT combines the benefits of Web3 with the semantic power of MCP, enabling progr
 
 ## The Ultimate Web3 Format in the Agent Era
 
+<figure><img src=".gitbook/assets/openmct.001.png" alt=""><figcaption><p>Web Now</p></figcaption></figure>
+
 In this future, websites, apps, and platforms may become obsolete. Instead, a vast ocean of MCTs will represent every individual, organization, product, and idea. Interaction will be driven entirely by AI agents communicating via MCP.
 
 Each person or entity may hold one or more MCTs, which serve as their digital interface. All interaction—commercial, social, informational—will flow through these context-rich tokens.
+
+<figure><img src=".gitbook/assets/openmct.002.png" alt=""><figcaption><p>Web Future</p></figcaption></figure>
 
 ***
 
